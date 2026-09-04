@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Lumma.Core</RootNamespace>
+    <AssemblyName>Lumma.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
